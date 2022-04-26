@@ -1,0 +1,1 @@
+This is a reacreation of the Jamaica star website on april 20th, this was done for a school project, no copyright intended 
