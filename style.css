@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav ul {
+    text-transform: uppercase;
+    background-color: #cc0000;
+    color: white;
+    
+}
+
+.header {
+    background-color: #333333;
+    grid-template-columns: repeat(2, 1fr);
+    color: white;
+
+}
+
+.entertainment {
+    background-color: #333333;
+    color: white;
+}
+
+.footer {
+    background-color: #cc0000;
+    color: white;
+
+}
